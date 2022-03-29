@@ -1,0 +1,54 @@
+.cafebao
+{
+	width:584px;
+	height:500px;
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+	padding:0px;
+	}
+.hinhanh
+{
+	width:280px;
+	height:250px;
+	float:left;
+	margin-left:3px;
+	margin-right:3px;
+	padding:0px;
+	}
+.noidung1
+{
+	width:280px;
+	height:250px;
+	float:right;
+	margin-left:3px;
+	margin-right:3px;
+	padding:0px;
+	}
+.noidung2
+{
+	width:575px;
+	height:200px;
+	float:right;
+	margin-top:15px;
+	padding:0px;
+	size:130%;
+	}
+.tuyendungnhanvien
+{
+	width:1095px;
+	height:200px;
+	padding:0px;
+	margin-left:15px;
+	float:left;
+	}
+.form
+{
+	width:1095px;
+	height:500px;
+	padding-top:50px;
+	padding-left:250px;
+	margin-top:15px;
+	margin-left:15px;
+	float:left;
+}

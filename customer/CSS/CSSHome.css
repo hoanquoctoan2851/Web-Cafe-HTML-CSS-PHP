@@ -1,0 +1,290 @@
+@charset "utf-8";
+body{
+	background:url(../Images/bg_body.jpg) no-repeat;
+	background-size:100%,100%;
+	margin-left: auto;
+    margin-right: auto;
+	padding:0px;
+	}
+.vungbao{
+	width:1124px;
+	height:1013px;    
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: -15px;
+    margin-top: -8px;
+	padding:0px;
+    background:url(../Images/bg_trang.jpg);
+}
+.vungbanner{
+	background:#F00;
+	width:770px;
+	height:170px;
+	float:left;
+	margin-right:15px;
+	padding:0px;
+	background:url(../Images/bg_trang.jpg);
+}
+.vunglogo{
+	width:300px;
+	height:170px;
+	margin-left:15px;
+	margin-bottom:-5px;
+	padding:0px;
+	float:left;
+}
+.vunghotro{
+	background:#630;
+	width:562px;
+	height:20px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+	color:#FFF;
+	float:left;
+}
+.dangki{
+	background:#630;
+	width:562px;;
+	height:20px;
+	margin:0px;
+	padding:0px;
+	text-align:right;
+	color:#FFF;
+	float:right;
+}
+.vungmenu
+{
+	width:250px;
+	height:530px;
+	margin-left:15px;
+	float:left;
+	}
+.vungchaychu
+{
+	width:845px;
+	height:30px;
+	margin:0px;
+	padding:0px;
+	float:left;
+	}
+.vungtintuc
+{
+	width:250px;
+	height:500px;
+	float:right;
+	margin-right:15px;
+	padding:0px;
+	}
+.vungtintucchinh
+{
+	width:584px;
+	height:500px;
+	background:#000;
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+	padding:0px;
+	}
+.vungmusic{
+	width:250px;
+	height:200px;
+	float:left;
+	margin-bottom:5px;
+	padding:0px;
+}
+.vungtuyendung{	
+	width:250px;
+	height:120px;
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+.hotlike{	
+	width:250px;
+	height:150px;
+	float:left;
+	margin-top:10px;
+	margin-bottom:5px;
+	padding:0px;
+}
+
+.hotlike img:hover{
+    -webkit-transform:rotate(-5deg);
+    -moz-transform:rotate(-5deg);
+    -ms-transform:rotate(-5deg);
+    -o-transform:rotate(-5deg);
+    transform:rotate(-5deg);
+}
+.vungtuyendung img:hover{
+    -webkit-transform:rotate(-5deg);
+    -moz-transform:rotate(-5deg);
+    -ms-transform:rotate(-5deg);
+    -o-transform:rotate(-5deg);
+    transform:rotate(-5deg);
+}
+.listmenu0{
+	width:250px;
+	height:25px;
+	float:left;
+	margin:0px;
+	color:#FFF;
+	padding-top:6px;
+	background:#630;
+	text-align:center;
+	-moz-border-radius-topleft:10px;
+    -webkit-border-top-left-radius:10px;
+	-moz-border-radius-topright:10px;
+    -webkit-border-top-right-radius:10px;
+}
+.listmenu1{
+	width:250px;
+	height:28px;
+	padding-top:7px;
+	float:left;
+	margin:0px;
+	background:#FFF;
+	border-top:4px solid;
+	text-align:center;
+	font-style:italic;
+}
+.listmenu2{
+	width:250px;
+	height:28px;
+	float:left;
+	padding-top:7px;
+	margin:0px;
+	background:#FFF;
+	border-top:1px solid;
+	text-align:center;
+	font-style:italic;
+}
+.listmenu3{
+	width:250px;
+	height:25px;
+	float:left;
+	margin-top:30px;
+	color:#FFF;
+	padding-top:6px;
+	background:#630;
+	text-align:center;
+	-moz-border-radius-topleft:10px;
+    -webkit-border-top-left-radius:10px;
+	-moz-border-radius-topright:10px;
+    -webkit-border-top-right-radius:10px;
+}
+a{
+	color:#FFF;
+    text-decoration: none;
+}
+a.listmenu1
+{
+	color:#000;
+	}
+a.listmenu2
+{
+	color:#000;
+	}
+a.listmenu1:hover
+{
+	background:#000;
+    color:#FFF;
+    font-weight:bold;
+}
+a.listmenu2:hover
+{
+	background:#000;
+    color:#FFF;
+    font-weight:bold;
+}
+.vunghot{
+	width:1124px;
+	height:54px;
+	float:left;
+	padding:0px;
+	margin-top:10px;
+}
+.vunghot1{
+	width:400px;
+	height:44px;
+	float:left;
+	padding-top:10px;
+	margin:0px;
+	background:#630;
+	-moz-border-radius-topright:26px;
+    -webkit-border-top-right-radius:26px;
+	text-align:center;
+	color:#FF6;
+	letter-spacing:5px;
+}
+.vunghot2{
+	width:724px;
+	height:27px;
+	float:right;
+	padding:0px;
+	margin:0px;
+}
+.vunghot3{
+	width:724px;
+	height:27px;
+	float:right;
+	padding:0px;
+	margin:0px;
+	background:#630;
+	-moz-border-radius-topright:15px;
+    -webkit-border-top-right-radius:15px;
+}
+.vungsanpham0{
+	width:1124px;
+	height:210px;
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+.vungsanpham1{
+	width:200px;
+	height:200px;
+	float:left;
+	margin:0px;
+	padding:0px;
+	margin-left:21px;
+	margin-top:5px;
+	text-align:center;
+}
+.vungsanpham1:hover{
+	opacity: 0.8;
+	}
+.chitietsanpham
+{
+	opacity: 0;
+	width:200px;
+	height:200px;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	color:#FFF;
+}
+.chitietsanpham:hover{
+	opacity: 1;
+	background:#630;
+	width:200px;
+	height:40px;
+	margin-top:80px;
+}
+.vunghotrophai{
+	width:1124px;;
+	height:25px;
+	margin:0px;
+	float:right;
+	padding:0px;
+	color:#06F;
+	}
+.vunghotrotrai{
+	width:1124px;;
+	height:25px;
+	margin:0px;
+	float:left;
+	padding:0px;
+	color:#FFF;
+}
